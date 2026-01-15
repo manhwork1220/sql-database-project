@@ -1,2 +1,17 @@
-# sql-database-project
-Xây dựng cơ sở dữ liệu và phân tích dữ liệu bằng SQL
+# SQL Database Design and Data Analysis Project
+
+## Overview
+This project focuses on designing a database and using SQL queries to analyze data for decision-making purposes.
+
+## Project Scope
+- Design and build a relational database
+- Define tables, primary keys, and foreign keys
+- Write SQL queries to analyze data from the database
+
+## Project Structure
+- sql/01_create_database.sql: database and table creation scripts
+- sql/02_analysis_queries.sql: SQL queries for data analysis
+
+## Tools
+- SQL
+- MySQL / PostgreSQL
