@@ -9,9 +9,9 @@ This project focuses on designing a database and using SQL queries to analyze da
 - Write SQL queries to analyze data from the database
 
 ## Project Structure
-- sql/01_create_database.sql: database and table creation scripts
-- sql/02_analysis_queries.sql: SQL queries for data analysis
+- sql/create_database.sql: database and table creation scripts
+- sql/analysis_queries.sql: SQL queries for data analysis
 
 ## Tools
 - SQL
-- MySQL / PostgreSQL
+
